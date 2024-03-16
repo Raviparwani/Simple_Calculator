@@ -1,2 +1,2 @@
 # Simple_Calculator
-Simple Calculator
+A Simple calculator with Typescript, Node,js and Inquirer
