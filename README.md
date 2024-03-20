@@ -1,2 +1,2 @@
-# Simple_Calculator_with_Percentage
+# Simple_Calculator
 A Simple calculator with Typescript, Node.js and Inquirer
